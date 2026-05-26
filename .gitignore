@@ -1,0 +1,22 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# MLflow
+mlruns/
+mlflow.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (optional - depends on your use case)
+data/*.csv
+
+# OS files
+.DS_Store
+
+# Streamlit cache
+.streamlit/
